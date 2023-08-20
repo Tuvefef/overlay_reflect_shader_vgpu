@@ -13,16 +13,20 @@ screen space reflection(surface water / under water)
 ![](https://github.com/Tuvefef/overlay_reflect_shader_vgpu/blob/main/img8.png)
 
 ### uso
-optifine, 
-render vgpu, 
-sistema de configuración en: `shaders\cofing.hpp`
+Optifine, 
+
+Render vgpu, 
+
+Sistema de configuración en: `shaders\cofing.hpp`
+
 
 ```
 float tranparency = 0.6;
-float reflect_coeff = 0.7;
+float reflect_coeff = 0.7; \\1.0 maximum
 float reflect_reso = 0.2;
 int reflect_distance = 80;
 ```
 ### avisisos(!)
-puede que el shader este mal optimizado y se presenten bajas de fps pero sigue siendo jugable
-aun esta en fase de desarrollo, cualquier reporte de bugs o sugerencias contácteme a discord "gab08549" 
+Puede que el shader este mal optimizado y se presenten bajas de fps pero sigue siendo jugable, 
+
+Aun esta en fase de desarrollo, cualquier reporte de bugs o sugerencias contácteme a discord "gab08549" 
