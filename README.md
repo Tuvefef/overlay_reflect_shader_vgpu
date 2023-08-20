@@ -6,6 +6,12 @@ El objetivo principal de este shader es centralizar una de las funciones importa
 ### características
 screen space reflection(surface water / under water) 
 
+### capturas de pantalla
+![](https://github.com/Tuvefef/overlay_reflect_shader_vgpu/blob/main/img1.png)
+![](https://github.com/Tuvefef/overlay_reflect_shader_vgpu/blob/main/img2.png)
+![](https://github.com/Tuvefef/overlay_reflect_shader_vgpu/blob/main/img3.png)
+![](https://github.com/Tuvefef/overlay_reflect_shader_vgpu/blob/main/img8.png)
+
 ### uso
 optifine, 
 render vgpu, 
