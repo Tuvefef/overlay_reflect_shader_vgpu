@@ -1,12 +1,12 @@
 # overlay_reflect_shader_vgpu
 
-# descripción 
+### descripción 
 El objetivo principal de este shader es centralizar una de las funciones importantes de uno de optifine 'reflejos' , agregando este elemento sin cambiar el estilo vanilla, compatible con el launcher de dispositivos moviles
 
-# características
+### características
 screen space reflection(surface water / under water) 
 
-# uso
+### uso
 optifine, 
 render vgpu, 
 sistema de configuración en: `shaders\cofing.hpp`
@@ -17,3 +17,6 @@ float reflect_coeff = 0.7;
 float reflect_reso = 0.2;
 int reflect_distance = 80;
 ```
+### avisisos(!)
+puede que el shader este mal optimizado y se presenten bajas de fps pero sigue siendo jugable
+aun esta en fase de desarrollo, cualquier reporte de bugs o sugerencias contácteme a discord "gab08549" 
