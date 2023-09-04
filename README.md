@@ -20,7 +20,7 @@ Render vgpu,
 Sistema de configuración en: `shaders\cofing.hpp`
 
 
-```
+```glsl
 float tranparency = 0.6;
 float reflect_coeff = 0.7; \\1.0 maximum
 float reflect_reso = 0.2;
